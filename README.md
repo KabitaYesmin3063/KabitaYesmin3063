@@ -5,7 +5,7 @@
 Hi there! 👋  
 I'm **Kabita Yesmin(Somapty)**, a dedicated **PHP Developer** with a knack for building **dynamic, scalable, and impactful solutions**. I thrive on tackling complex challenges and turning them into seamless user experiences. 🚀  
 
----
+https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTZlMGJjM2R6dmdmZWdycm5iNjg4enM2aXBwOThkMGppM245YmNzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif
 
 ### ⚡ Quick Facts  
 - 🏗️ **Strengths**: Dynamic web solutions, Laravel wizardry, API development.  
